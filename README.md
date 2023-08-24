@@ -22,7 +22,7 @@ H3kit primarily uses [SwiftPM](https://swift.org/package-manager/) as its build 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/dividenconquer/h3kit.git", from: "1.0.0")
+    .package(url: "https://github.com/dividenconquer/h3kit-ios.git", from: "1.0.0")
 ]
 ```
 
@@ -30,7 +30,7 @@ dependencies: [
 
 If your project is set up as an Xcode project and you're using Xcode 11+, you can add H3Kit as a dependency to your
 Xcode project by clicking File -> Swift Packages -> Add Package Dependency. In the upcoming dialog, please enter
-`https://github.com/dividenconquer/h3kit.git` and click Next twice.
+`https://github.com/dividenconquer/h3kit-ios.git` and click Next twice.
 
 ## Usage with Swift
 
