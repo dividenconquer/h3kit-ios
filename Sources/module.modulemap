@@ -1,0 +1,3 @@
+module Ch3kit {
+  header "H3kitC/h3api.h"
+}
